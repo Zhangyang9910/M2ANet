@@ -103,4 +103,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-This implementation is based on and modified from the Edge-Connect framework.
+This code is built upon the excellent work of **Edge-Connect** and **HINT**. We sincerely appreciate the authors for sharing their code and models, which greatly facilitated our research.
+
+* [**Edge-Connect**](https://github.com/knazeri/edge-connect): Generative Image Inpainting with Adversarial Edge Learning.
+* [**HINT**](https://github.com/ChrisChen1023/HINT): HINT: High-quality INpainting Transformer with Enhanced Attention and Mask-aware Encoding.
