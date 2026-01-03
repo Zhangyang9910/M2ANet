@@ -92,6 +92,10 @@ dataset/
 └── test_masks/       # Test masks
 ```
 
+## Pre-trained weights
+
+https://pan.baidu.com/s/1WkT2AGxIb9whm_XU5b_N_g?pwd=7mti
+
 
 ## License
 
